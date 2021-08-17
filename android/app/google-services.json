@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "533086054623",
+    "project_id": "velvety-decoder-312222",
+    "storage_bucket": "velvety-decoder-312222.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533086054623:android:337e2ec071a8a3f8dfa16a",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533086054623-fkhsq23hi7utqafm3lvi7qu4enjpm9ug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOQA2XgsBVX3Y3Wu8cRLxLAcqgJoNkv84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533086054623-fkhsq23hi7utqafm3lvi7qu4enjpm9ug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533086054623:android:23ccc17463c7cb17dfa16a",
+        "android_client_info": {
+          "package_name": "com.example.firebase_imagens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533086054623-fkhsq23hi7utqafm3lvi7qu4enjpm9ug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOQA2XgsBVX3Y3Wu8cRLxLAcqgJoNkv84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533086054623-fkhsq23hi7utqafm3lvi7qu4enjpm9ug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
